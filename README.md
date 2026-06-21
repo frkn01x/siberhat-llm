@@ -232,8 +232,4 @@ Daha iyi sonuç için `max_steps`'i 5000+ yapıp yeniden eğitebilirsin.
 
 ---
 
-## Notlar
 
-- Bu araç **yalnızca eğitim ve etik hacking** amaçlıdır
-- İzinsiz sistemlere karşı kullanmak yasaldır
-- Model küçük olduğu için zaman zaman konu dışı cevap verebilir; konu filtresi bunu büyük ölçüde engeller
